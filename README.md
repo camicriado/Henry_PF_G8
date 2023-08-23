@@ -17,7 +17,9 @@ Por último, también se han subido archivos de los **EDA preliminares** con los
 -----------------
 **ENTREGABLE N2:**
 
-En el Documento PDF denominado **Entregable2_Rev1_PDataEngineer* se presenta el segundo Entregable, en el que se proporciona información la ingeniería del proecyto. 
+En el Documento PDF denominado **Entregable2_Rev1_PDataEngineer* se presenta el segundo Entregable, en el que se proporciona información sobre la ingeniería del proyecto, diccionarios de las bases de datos a utilizar, modelo del dataware house, etc. 
+
+En el Archivo denominado **Presentación2**, se puede encontrar la presentación realizada en la DEMO. 
 
 ![Google Reviews](https://assets-global.website-files.com/602cf6148109ccfeb1d80c49/60d4509851d12743d030a9eb_5c11336dd43b9272273fb4ce_Google-Reviews.jpeg)
 
