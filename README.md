@@ -20,6 +20,8 @@ Toda la documentación asociada al Entregable N2, se encuentra dentro de la Carp
 
 Allí encontrán la **documentación que explica la Ingeniería Desarrollada**, la **presentación** de la primera demo y los **ELT** de ambos conjuntos de datos (Google y YELP)
 
+-----------------
+
 **ENTREGABLE N3:**
 
 Toda la documentación asociada al Entregable N3, se encontrará en esta carpeta. 
