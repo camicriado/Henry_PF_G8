@@ -8,18 +8,21 @@ A pedido del Cliente se realiza un análisis Exhaustivo de las reviews de las pl
 -------------
 **ENTREGABLE N1:**
 
-En el Documento PDF denominado **Entregable_Rev_Propuesta1** se presenta el primer Entregable, en el que se proporciona información sobre el objetivo y el alcance del proyecto, asi también como la metodología de trabajo y las tecnológías a utilizar.
+Toda la documentación asociada al Entregable N1, se encuentra dentro de la Carpeta denominada Sprint 1, Propuesta de Trabajo.
 
-En el Archivo denominado **Presentación** se puede encontrar un breve resumen de la documentación presentada.
+Allí encontrán la **propuesta de trabajo**, la **presentación** de la primera demo y los **EDA preliminares** de ambos conjuntos de datos (Google y YELP)
 
-Por último, también se han subido archivos de los **EDA preliminares** con los que se ha trabajado en esta primera Etapa. 
 
 -----------------
 **ENTREGABLE N2:**
 
-En el Documento PDF denominado **Entregable2_Rev1_PDataEngineer* se presenta el segundo Entregable, en el que se proporciona información sobre la ingeniería del proyecto, diccionarios de las bases de datos a utilizar, modelo del dataware house, etc. 
+Toda la documentación asociada al Entregable N2, se encuentra dentro de la Carpeta denominada Sprint 2 / Ingeniería de Datos. 
 
-En el Archivo denominado **Presentación2**, se puede encontrar la presentación realizada en la DEMO. 
+Allí encontrán la **documentación que explica la Ingeniería Desarrollada**, la **presentación** de la primera demo y los **ELT** de ambos conjuntos de datos (Google y YELP)
+
+**ENTREGABLE N3:**
+
+Toda la documentación asociada al Entregable N3, se encontrará en esta carpeta. 
 
 ![Google Reviews](https://assets-global.website-files.com/602cf6148109ccfeb1d80c49/60d4509851d12743d030a9eb_5c11336dd43b9272273fb4ce_Google-Reviews.jpeg)
 
