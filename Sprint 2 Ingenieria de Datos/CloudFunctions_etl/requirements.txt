@@ -1,0 +1,16 @@
+# Function dependencies, for example:
+# package>=version
+google-cloud-storage
+google-cloud-bigquery
+pandas
+numpy
+cloudstorage
+gcsfs
+deep-translator
+googletrans
+emoji
+pyarrow
+fastparquet
+db-dtypes
+dt
+textblob
