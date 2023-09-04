@@ -13,8 +13,8 @@ En el siguiente video se presenta el resumen del proyecto, de inicio a fin:
   </a>
 </p>
 
--------------
-**ENTREGABLE N1:** Propuesta de Trabajo
+
+<h1 align="center"> ENTREGABLE N1 - PROPUESTA DE TRABAJO </h1>
 
 Toda la documentación asociada al Entregable N1, se encuentra dentro de la Carpeta denominada Sprint 1, Propuesta de Trabajo.
 
