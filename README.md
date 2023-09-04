@@ -59,9 +59,7 @@ El producto final es Una WEB que presenta la siguiente información:
                                                             - Presentación de la Empresa. 
 
 
-Mediante el siguiente enlace se puede acceder al sitio Web> [Sitio web de Smart Models](https://masclientes.website/smart-models/)
-
-
+Mediante el siguiente enlace se puede acceder al sitio Web: [Sitio web de Smart Models](https://masclientes.website/smart-models/)
 
 
 <h1 align="center" id="tecnologias-utilizadas">TECNOLOGÍAS UTILIZADAS</h1>
