@@ -66,9 +66,10 @@ Mediante el siguiente enlace se puede acceder al sitio Web: [Sitio web de Smart 
 <h1 align="center" id="tecnologias-utilizadas">TECNOLOGÍAS UTILIZADAS</h1>
 
 1. **Arquitectura de Big Data**
-   - Google Cloud Platform    <p align="center">
-  <img src="https://github.com/camicriado/Henry_PF_G8/raw/main/Sprint%202%20Ingenieria%20de%20Datos/google-cloud-logo-0.%20GCP.png" width="100" alt="Descripción de la imagen">
-</p>
+   - Google Cloud Platform  <div align="center">
+  <img src="https://github.com/camicriado/Henry_PF_G8/raw/main/Sprint%202%20Ingenieria%20de%20Datos/google-cloud-logo-0.%20GCP.png" alt="Descripción de la imagen" style="width: 100px;"/>
+</div>
+
 
 
   
