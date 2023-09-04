@@ -54,12 +54,19 @@ El producto final es Una WEB que presenta la siguiente información:
 
 <h1 align="center"> EQUIPO DE TRABAJO </h1>
 
-El equipo de trabajo del presente proyecto fue realizado por los siguientes profesionales:
+1. **Miguel Ramos**
+   - Rol: Data Engineer
 
-Miguel Ramos - Data Engineer
-Andrés Olascoada - Data Scientist
-Juan Manual Valderrama - Data Scientist
-Ricardo Moreno - Data Analysis
-Camila Criado  - Data Analysis
+2. **Andrés Olascoada**
+   - Rol: Data Scientist
+
+3. **Juan Manual Valderrama**
+   - Rol: Data Scientist
+
+4. **Ricardo Moreno**
+   - Rol: Data Analysis
+
+5. **Camila Criado**
+   - Rol: Data Analysis 
                                                   
 
