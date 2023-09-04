@@ -1,13 +1,15 @@
 # Henry_PF_G8
 
 
-[![Alt text](https://img.youtube.com/vi/aUg0z6dV55Q/0.jpg)](https://www.youtube.com/watch?v=aUg0z6dV55Q)
-
 **PROYECTO FINAL  - SMART MODELS TECHNOLOGY**
 
 Se presenta el **Proyecto Final** del Grupo 8  - Carrera Data Science Part Time 01
 
 A pedido del Cliente se realiza un análisis Exhaustivo de las reviews de las plataformas *Google Bussiness* y *YELP!* para obtener información relevante que ayude a los empresarios a mejorar sus resultados. 
+
+En el siguiente video se presenta el resumen del proyecto, de inicio a fin: 
+
+[![Alt text](https://img.youtube.com/vi/aUg0z6dV55Q/0.jpg)](https://www.youtube.com/watch?v=aUg0z6dV55Q)
 
 -------------
 **ENTREGABLE N1:** Propuesta de Trabajo
