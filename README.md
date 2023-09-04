@@ -15,8 +15,6 @@ En este repositorio se puede encontrar el producto ofrecido por Smart Models Tec
 En el mismo se realiza un análisis exhaustivo de las Reviews Presentes en las Plataformas de Google My Bussiness y YELP!
 
 
-
-
 En el siguiente video se presenta el resumen del proyecto, de inicio a fin: 
 
 <p align="center">
@@ -25,15 +23,21 @@ En el siguiente video se presenta el resumen del proyecto, de inicio a fin:
   </a>
 </p>
 
+## Índice
 
-<h1 align="center"> PROPUESTA DE TRABAJO </h1>
+- [ANALYTICS Y SISTEMA DE RECOMENDACIÓN](#analytics-y-sistema-de-recomendacion)
+- [INGENIERÍA DE DATOS](#ingenieria-de-datos)
+- [PROPUESTA DE TRABAJO](#propuesta-de-trabajo)
+
+<h1 align="center" id="propuesta-de-trabajo">PROPUESTA DE TRABAJO</h1>
 
 Toda la documentación asociada a la Propuesta de Trabajo se encuentra en la Carpeta denominada Sprint 1. 
 
 Allí encontrán la **propuesta de trabajo**, la **presentación** de la primera demo y los **EDA preliminares** de ambos conjuntos de datos (Google y YELP)
 
 
-<h1 align="center"> INGENIERÍA DE DATOS </h1>
+<h1 align="center" id="ingenieria-de-datos">INGENIERÍA DE DATOS</h1>
+
 
 Toda la documentación asociada a la Ingeniería de datos se encuentra en la Carpeta denominada Sprint 2.  
 
@@ -41,7 +45,7 @@ Allí encontrán la **documentación que explica la Ingeniería Desarrollada**, 
 
 
 
-<h1 align="center"> ANALYTICS Y SISTEMA DE RECOMENDACIÓN </h1>
+<h1 align="center" id="analytics-y-sistema-de-recomendacion">ANALYTICS Y SISTEMA DE RECOMENDACIÓN</h1>
 
 Toda la documentación asociada al producto final se encuentra en esta carpeta. 
 
@@ -52,7 +56,8 @@ El producto final es Una WEB que presenta la siguiente información:
                                                             - Presentación de la Empresa. 
 
 
-<h1 align="center"> EQUIPO DE TRABAJO </h1>
+
+<h1 align="center" id="equipo-de-trabajo">EQUIPO DE TRABAJO</h1>
 
 1. **Miguel Ramos**
    - Rol: Data Engineer
