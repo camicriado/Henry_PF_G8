@@ -50,5 +50,16 @@ El producto final es Una WEB que presenta la siguiente información:
                                                             - Link a Sistema de Recomendación en Web App. 
                                                             - Equipo de Trabajo. 
                                                             - Presentación de la Empresa. 
+
+
+<h1 align="center"> EQUIPO DE TRABAJO </h1>
+
+El equipo de trabajo del presente proyecto fue realizado por los siguientes profesionales:
+
+Miguel Ramos - Data Engineer
+Andrés Olascoada - Data Scientist
+Juan Manual Valderrama - Data Scientist
+Ricardo Moreno - Data Analysis
+Camila Criado  - Data Analysis
                                                   
 
