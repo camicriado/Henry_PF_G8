@@ -1,9 +1,9 @@
 
 <h1 align="center"> PROYECTO FINAL  - SMART MODELS TECHNOLOGY </h1>
 
-Se presenta el **Proyecto Final** del Grupo 8  - Carrera Data Science Part Time 01
+En este repositorio se puede encontrar el producto ofrecido por Smart Models Technology. 
 
-A pedido del Cliente se realiza un análisis Exhaustivo de las reviews de las plataformas *Google Bussiness* y *YELP!* para obtener información relevante que ayude a los empresarios a mejorar sus resultados. 
+En el mismo se realiza un análisis exhaustivo de las Reviews Presentes en las Plataformas de Google My Bussiness y YELP!. 
 
 En el siguiente video se presenta el resumen del proyecto, de inicio a fin: 
 
