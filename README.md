@@ -1,5 +1,3 @@
-# Henry_PF_G8
-
 
 <h1 align="center"> PROYECTO FINAL  - SMART MODELS TECHNOLOGY </h1>
 
