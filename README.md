@@ -52,11 +52,3 @@ El producto final es Una WEB que presenta la siguiente información:
                                                             - Presentación de la Empresa. 
                                                   
 
-
-![Google Reviews](https://assets-global.website-files.com/602cf6148109ccfeb1d80c49/60d4509851d12743d030a9eb_5c11336dd43b9272273fb4ce_Google-Reviews.jpeg)
-
-![YELP!](https://andesandassociates.com/wp-content/uploads/2019/04/Yelp.png)
-
-
-
-
