@@ -1,7 +1,7 @@
 # Henry_PF_G8
 
 
-**PROYECTO FINAL  - SMART MODELS TECHNOLOGY**
+<h1 align="center"> PROYECTO FINAL  - SMART MODELS TECHNOLOGY </h1>
 
 Se presenta el **Proyecto Final** del Grupo 8  - Carrera Data Science Part Time 01
 
