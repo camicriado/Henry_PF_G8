@@ -21,18 +21,17 @@ Toda la documentación asociada a la Propuesta de Trabajo se encuentra en la Car
 Allí encontrán la **propuesta de trabajo**, la **presentación** de la primera demo y los **EDA preliminares** de ambos conjuntos de datos (Google y YELP)
 
 
------------------
-**ENTREGABLE N2:**  Ingeniería de Datos
+<h1 align="center"> INGENIERÍA DE DATOS </h1>
 
-Toda la documentación asociada al Entregable N2, se encuentra dentro de la Carpeta denominada Sprint 2 / Ingeniería de Datos. 
+Toda la documentación asociada a la Ingeniería de datos se encuentra en la Carpeta denominada Sprint 2.  
 
-Allí encontrán la **documentación que explica la Ingeniería Desarrollada**, la **presentación** de la primera demo y los **ELT** de ambos conjuntos de datos (Google y YELP)
+Allí encontrán la **documentación que explica la Ingeniería Desarrollada**, la **presentación** de la segunda demo y los **ELT** de ambos conjuntos de datos (Google y YELP)
 
------------------
 
-**Producto Final:**
 
-En esta carpeta se encuentra la documentación asociada al producto final del proyecto. 
+<h1 align="center"> ANALYTICS Y SISTEMA DE RECOMENDACIÓN </h1>
+
+Toda la documentación asociada al producto final se encuentra en esta carpeta. 
 
 El producto final es Una WEB que presenta la siguiente información: 
                                                             - Link a Dashboards en Power Bi. 
