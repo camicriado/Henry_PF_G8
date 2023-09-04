@@ -67,10 +67,9 @@ Mediante el siguiente enlace se puede acceder al sitio Web: [Sitio web de Smart 
 
 1. **Arquitectura de Big Data**
    - Google Cloud Platform  
-  <img src="https://github.com/camicriado/Henry_PF_G8/raw/main/Sprint%202%20Ingenieria%20de%20Datos/google-cloud-logo-0.%20GCP.png" alt="Descripción de la imagen" style="width: 100px;"/>
-</div>
-
-
+ <span align="center">
+  <img src="https://github.com/camicriado/Henry_PF_G8/raw/main/Sprint%202%20Ingenieria%20de%20Datos/google-cloud-logo-0.%20GCP.png" alt="Descripción de la imagen" width="100"/> Texto con la imagen.
+</span>
 
   
 2. **Dashboards**
