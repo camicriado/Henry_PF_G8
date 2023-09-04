@@ -25,9 +25,10 @@ En el siguiente video se presenta el resumen del proyecto, de inicio a fin:
 
 ## Índice
 
-- [ANALYTICS Y SISTEMA DE RECOMENDACIÓN](#analytics-y-sistema-de-recomendacion)
-- [INGENIERÍA DE DATOS](#ingenieria-de-datos)
 - [PROPUESTA DE TRABAJO](#propuesta-de-trabajo)
+- [INGENIERÍA DE DATOS](#ingenieria-de-datos)
+- [ANALYTICS Y SISTEMA DE RECOMENDACIÓN](#analytics-y-sistema-de-recomendacion)
+
 
 <h1 align="center" id="propuesta-de-trabajo">PROPUESTA DE TRABAJO</h1>
 
