@@ -1,12 +1,20 @@
 
 <h1 align="center"> PROYECTO FINAL  - SMART MODELS TECHNOLOGY </h1>
 
+<p align="center">
+  <a href="https://www.google.com">
+    <img src="https://assets-global.website-files.com/602cf6148109ccfeb1d80c49/60d4509851d12743d030a9eb_5c11336dd43b9272273fb4ce_Google-Reviews.jpeg" width="100" alt="Google Reviews"/>
+  </a>
+  <a href="https://www.yelp.com">
+    <img src="https://andesandassociates.com/wp-content/uploads/2019/04/Yelp.png" width="100" alt="YELP!"/>
+  </a>
+</p>
+
 En este repositorio se puede encontrar el producto ofrecido por Smart Models Technology. 
 
 En el mismo se realiza un análisis exhaustivo de las Reviews Presentes en las Plataformas de Google My Bussiness y YELP!
 
-[<img src="https://assets-global.website-files.com/602cf6148109ccfeb1d80c49/60d4509851d12743d030a9eb_5c11336dd43b9272273fb4ce_Google-Reviews.jpeg" width="100"/>](https://www.google.com)
-[<img src="https://andesandassociates.com/wp-content/uploads/2019/04/Yelp.png" width="100"/>](https://www.yelp.com)
+
 
 
 En el siguiente video se presenta el resumen del proyecto, de inicio a fin: 
