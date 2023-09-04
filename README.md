@@ -7,7 +7,11 @@ En el mismo se realiza un análisis exhaustivo de las Reviews Presentes en las P
 
 En el siguiente video se presenta el resumen del proyecto, de inicio a fin: 
 
-[![Alt text](https://img.youtube.com/vi/aUg0z6dV55Q/0.jpg)](https://www.youtube.com/watch?v=aUg0z6dV55Q)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=aUg0z6dV55Q">
+    <img src="https://img.youtube.com/vi/aUg0z6dV55Q/0.jpg" alt="Video Title" width="640" height="360" />
+  </a>
+</p>
 
 -------------
 **ENTREGABLE N1:** Propuesta de Trabajo
