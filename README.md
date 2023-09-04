@@ -28,6 +28,8 @@ En el siguiente video se presenta el resumen del proyecto, de inicio a fin:
 - [PROPUESTA DE TRABAJO](#propuesta-de-trabajo)
 - [INGENIERÍA DE DATOS](#ingenieria-de-datos)
 - [ANALYTICS Y SISTEMA DE RECOMENDACIÓN](#analytics-y-sistema-de-recomendacion)
+- [TECNOLOGÍAS UTILIZADAS](#tecnologias-utilizadas)
+- [EQUIPO DE TRABAJO](#equipo-de-trabajo)
 
 
 <h1 align="center" id="propuesta-de-trabajo">PROPUESTA DE TRABAJO</h1>
@@ -57,6 +59,17 @@ El producto final es Una WEB que presenta la siguiente información:
                                                             - Presentación de la Empresa. 
 
 
+
+<h1 align="center" id="tecnologias-utilizadas">TECNOLOGÍAS UTILIZADAS</h1>
+
+1. **Arquitectura de Big Data**
+   - Google Cloud Platform
+  
+2. **Dashboards**
+   - Power Bi
+
+3. **Sistema de Recomendación**
+   - Python
 
 <h1 align="center" id="equipo-de-trabajo">EQUIPO DE TRABAJO</h1>
 
