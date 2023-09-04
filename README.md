@@ -14,9 +14,9 @@ En el siguiente video se presenta el resumen del proyecto, de inicio a fin:
 </p>
 
 
-<h1 align="center"> ENTREGABLE N1 - PROPUESTA DE TRABAJO </h1>
+<h1 align="center"> PROPUESTA DE TRABAJO </h1>
 
-Toda la documentación asociada al Entregable N1, se encuentra dentro de la Carpeta denominada Sprint 1, Propuesta de Trabajo.
+Toda la documentación asociada a la Propuesta de Trabajo se encuentra en la Carpeta denominada Sprint 1. 
 
 Allí encontrán la **propuesta de trabajo**, la **presentación** de la primera demo y los **EDA preliminares** de ambos conjuntos de datos (Google y YELP)
 
