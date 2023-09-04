@@ -23,7 +23,8 @@ En el siguiente video se presenta el resumen del proyecto, de inicio a fin:
   </a>
 </p>
 
-## Índice
+## 🚩 Indice ![image](https://github.com/camicriado/Henry_PF_G8/assets/119892289/42e2c05b-fdd5-4d6c-a28c-c221ca7791d1)
+
 
 - [PROPUESTA DE TRABAJO](#propuesta-de-trabajo)
 - [INGENIERÍA DE DATOS](#ingenieria-de-datos)
