@@ -10,9 +10,9 @@
   </a>
 </p>
 
-En este repositorio se puede encontrar el producto ofrecido por Smart Models Technology. 
+En este repositorio se puede encontrar el producto ofrecido por **Smart Models Technology**
 
-En el mismo se realiza un análisis exhaustivo de las Reviews Presentes en las Plataformas de Google My Bussiness y YELP!
+En el mismo se realiza un *análisis exhaustivo* de las Reviews Presentes en las Plataformas de **Google My Bussiness** y **YELP!**
 
 
 En el siguiente video se presenta el resumen del proyecto, de inicio a fin: 
