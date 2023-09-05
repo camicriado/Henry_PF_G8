@@ -53,10 +53,14 @@ Allí encontrán la **documentación que explica la Ingeniería Desarrollada**, 
 
 Toda la documentación asociada al producto final se encuentra en esta carpeta. 
 
-El producto final es Una WEB que presenta la siguiente información: 
+El producto final es Una **WEB** que presenta la siguiente información: 
+
                                                             - Link a Dashboards en Power Bi. 
+                                                            
                                                             - Link a Sistema de Recomendación en Web App. 
+                                                            
                                                             - Equipo de Trabajo. 
+                                                            
                                                             - Presentación de la Empresa. 
 
 
