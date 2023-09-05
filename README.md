@@ -51,7 +51,6 @@ Allí encontrán la **documentación que explica la Ingeniería Desarrollada**, 
 
 <h1 align="center" id="analytics-y-sistema-de-recomendacion">ANALYTICS Y SISTEMA DE RECOMENDACIÓN</h1>
 
-Toda la documentación asociada al **Producto Final** se encuentra en esta carpeta. 
 
 El producto final es Una **WEB** que presenta la siguiente información: 
 
@@ -66,6 +65,7 @@ El producto final es Una **WEB** que presenta la siguiente información:
 
 Mediante el siguiente enlace se puede acceder al sitio Web: [Sitio web de Smart Models](https://masclientes.website/smart-models/)
 
+Además, el código del sistema de recomendación se puede encontrar en esta carpeta.  
 
 <h1 align="center" id="tecnologias-utilizadas">TECNOLOGÍAS UTILIZADAS</h1>
 
