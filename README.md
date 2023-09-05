@@ -83,19 +83,19 @@ Además, el código del sistema de recomendación se puede encontrar en esta car
 
 <h1 align="center" id="equipo-de-trabajo">EQUIPO DE TRABAJO</h1>
 
-**Miguel Ramos:**
+**Miguel Ramos**
 
 
-**Andrés Olascoaga:**
+**Andrés Olascoaga**
 
 
-**Juan Manual Valderrama:**
+**Juan Manual Valderrama**
 
 
-**Ricardo Moreno:**
+**Ricardo Moreno**
 
 
-**Camila Criado:**
+**Camila Criado**
 
                                                   
 
