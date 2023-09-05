@@ -83,19 +83,19 @@ Mediante el siguiente enlace se puede acceder al sitio Web: [Sitio web de Smart 
 
 <h1 align="center" id="equipo-de-trabajo">EQUIPO DE TRABAJO</h1>
 
-**Miguel Ramos**
+**Miguel Ramos:**
 Data Engineer
 
-**Andrés Olascoada**
+**Andrés Olascoaga:**
 Data Scientist
 
-**Juan Manual Valderrama**
+**Juan Manual Valderrama:**
 Data Scientist
 
-**Ricardo Moreno**
+**Ricardo Moreno:**
 Data Analysis
 
-**Camila Criado**
+**Camila Criado:**
 Data Analysis 
                                                   
 
