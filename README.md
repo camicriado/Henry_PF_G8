@@ -1,5 +1,5 @@
 
-<h1 align="center"> PROYECTO FINAL  - SMART MODELS TECHNOLOGY </h1>
+<h1 align="center"> SMART MODELS TECHNOLOGY </h1>
 
 <p align="center">
   <a href="https://www.google.com">
