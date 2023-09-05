@@ -51,7 +51,7 @@ Allí encontrán la **documentación que explica la Ingeniería Desarrollada**, 
 
 <h1 align="center" id="analytics-y-sistema-de-recomendacion">ANALYTICS Y SISTEMA DE RECOMENDACIÓN</h1>
 
-Toda la documentación asociada a la Analitics y Sistema de recomendación se encuentra en la Carpeta denominada Sprint 3.  
+Toda la documentación asociada a la Analytics y Sistema de Recomendación se encuentra en la Carpeta denominada Sprint 3.  
 
 El producto final es Una **WEB** que presenta la siguiente información: 
 
