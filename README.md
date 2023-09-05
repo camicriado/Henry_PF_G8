@@ -84,18 +84,18 @@ Además, el código del sistema de recomendación se puede encontrar en esta car
 <h1 align="center" id="equipo-de-trabajo">EQUIPO DE TRABAJO</h1>
 
 **Miguel Ramos:**
-Data Engineer
+
 
 **Andrés Olascoaga:**
-Data Scientist
+
 
 **Juan Manual Valderrama:**
-Data Scientist
+
 
 **Ricardo Moreno:**
-Data Analysis
+
 
 **Camila Criado:**
-Data Analysis 
+
                                                   
 
