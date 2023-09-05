@@ -51,7 +51,7 @@ Allí encontrán la **documentación que explica la Ingeniería Desarrollada**, 
 
 <h1 align="center" id="analytics-y-sistema-de-recomendacion">ANALYTICS Y SISTEMA DE RECOMENDACIÓN</h1>
 
-Toda la documentación asociada al producto final se encuentra en esta carpeta. 
+Toda la documentación asociada al **Producto Final** se encuentra en esta carpeta. 
 
 El producto final es Una **WEB** que presenta la siguiente información: 
 
@@ -83,16 +83,16 @@ Mediante el siguiente enlace se puede acceder al sitio Web: [Sitio web de Smart 
 
 <h1 align="center" id="equipo-de-trabajo">EQUIPO DE TRABAJO</h1>
 
-1. **Miguel Ramos**
+**Miguel Ramos**
    - Rol: Data Engineer
 
-2. **Andrés Olascoada**
+**Andrés Olascoada**
    - Rol: Data Scientist
 
-3. **Juan Manual Valderrama**
+**Juan Manual Valderrama**
    - Rol: Data Scientist
 
-4. **Ricardo Moreno**
+**Ricardo Moreno**
    - Rol: Data Analysis
 
 5. **Camila Criado**
