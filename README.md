@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://www.google.com">
-    <img src="https://assets-global.website-files.com/602cf6148109ccfeb1d80c49/60d4509851d12743d030a9eb_5c11336dd43b9272273fb4ce_Google-Reviews.jpeg" width="100" alt="Google Reviews"/>
+    <img src="https://assets-global.website-files.com/602cf6148109ccfeb1d80c49/60d4509851d12743d030a9eb_5c11336dd43b9272273fb4ce_Google-Reviews.jpeg" width="200" alt="Google Reviews"/>
   </a>
   <a href="https://www.yelp.com">
-    <img src="https://andesandassociates.com/wp-content/uploads/2019/04/Yelp.png" width="100" alt="YELP!"/>
+    <img src="https://andesandassociates.com/wp-content/uploads/2019/04/Yelp.png" width="200" alt="YELP!"/>
   </a>
 </p>
 
@@ -73,7 +73,9 @@ Mediante el siguiente enlace se puede acceder al sitio Web: [Sitio web de Smart 
 <img src="https://github.com/camicriado/Henry_PF_G8/blob/main/Sprint%202%20Ingenieria%20de%20Datos/Power-BI-Simbolo-scaled.jpg" alt="Texto alternativo" width="100">
 
 4. **Sistema de Recomendación**
-   - Python
+
+<img src="https://github.com/camicriado/Henry_PF_G8/blob/main/Sprint%202%20Ingenieria%20de%20Datos/Python-Symbol_0.png" alt="Texto alternativo" width="100">
+
 
 <h1 align="center" id="equipo-de-trabajo">EQUIPO DE TRABAJO</h1>
 
