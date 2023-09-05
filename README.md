@@ -76,7 +76,7 @@ Además, el código del sistema de recomendación se puede encontrar en esta car
    
 <img src="https://github.com/camicriado/Henry_PF_G8/blob/main/Sprint%202%20Ingenieria%20de%20Datos/Power-BI-Simbolo-scaled.jpg" alt="Texto alternativo" width="100">
 
-4. **Sistema de Recomendación**
+3. **Sistema de Recomendación**
 
 <img src="https://github.com/camicriado/Henry_PF_G8/blob/main/Sprint%202%20Ingenieria%20de%20Datos/Python-Symbol_0.png" alt="Texto alternativo" width="100">
 
