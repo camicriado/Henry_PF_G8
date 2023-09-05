@@ -69,9 +69,8 @@ Mediante el siguiente enlace se puede acceder al sitio Web: [Sitio web de Smart 
 <img src="https://github.com/camicriado/Henry_PF_G8/raw/main/Sprint%202%20Ingenieria%20de%20Datos/google-cloud-logo-0.%20GCP.png" alt="Descripción de la imagen" width="100" />
 
 2. **Dashboards**
-
-(https://github.com/camicriado/Henry_PF_G8/blob/main/Sprint%202%20Ingenieria%20de%20Datos/Power-BI-Simbolo-scaled.jpg){width=100}
-
+   
+<img src="https://github.com/camicriado/Henry_PF_G8/blob/main/Sprint%202%20Ingenieria%20de%20Datos/Power-BI-Simbolo-scaled.jpg" alt="Texto alternativo" width="100">
 
 4. **Sistema de Recomendación**
    - Python
