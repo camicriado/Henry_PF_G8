@@ -84,18 +84,18 @@ Mediante el siguiente enlace se puede acceder al sitio Web: [Sitio web de Smart 
 <h1 align="center" id="equipo-de-trabajo">EQUIPO DE TRABAJO</h1>
 
 **Miguel Ramos**
-   - Rol: Data Engineer
+Data Engineer
 
 **Andrés Olascoada**
-   - Rol: Data Scientist
+Data Scientist
 
 **Juan Manual Valderrama**
-   - Rol: Data Scientist
+Data Scientist
 
 **Ricardo Moreno**
-   - Rol: Data Analysis
+Data Analysis
 
-5. **Camila Criado**
-   - Rol: Data Analysis 
+**Camila Criado**
+Data Analysis 
                                                   
 
