@@ -70,14 +70,14 @@ Además, el código del sistema de recomendación se puede encontrar en esta car
 
 <h1 align="center" id="tecnologias-utilizadas">TECNOLOGÍAS UTILIZADAS</h1>
 
-**Arquitectura de Big Data**
+1. **Arquitectura de Big Data**
 <img src="https://github.com/camicriado/Henry_PF_G8/raw/main/Sprint%202%20Ingenieria%20de%20Datos/google-cloud-logo-0.%20GCP.png" alt="Descripción de la imagen" width="100" />
 
-**Dashboards**
+2. **Dashboards**
    
 <img src="https://github.com/camicriado/Henry_PF_G8/blob/main/Sprint%202%20Ingenieria%20de%20Datos/Power-BI-Simbolo-scaled.jpg" alt="Texto alternativo" width="100">
 
-**Sistema de Recomendación**
+3. **Sistema de Recomendación**
 
 <img src="https://github.com/camicriado/Henry_PF_G8/blob/main/Sprint%202%20Ingenieria%20de%20Datos/Python-Symbol_0.png" alt="Texto alternativo" width="100">
 
