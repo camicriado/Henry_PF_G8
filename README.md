@@ -45,7 +45,7 @@ Allí encontrán la **propuesta de trabajo**, la **presentación** de la primera
 
 Toda la documentación asociada a la Ingeniería de datos se encuentra en la Carpeta denominada Sprint 2.  
 
-Allí encontrán la **documentación que explica la Ingeniería Desarrollada**, la **presentación** de la segunda demo y los **ELT** de ambos conjuntos de datos (Google y YELP)
+Allí encontrán la **documentación que explica la Ingeniería Desarrollada**, la **presentación** de la segunda demo,los **ETL** de ambos conjuntos de datos (Google y YELP) y tambien las funciones de Google Cloud Functions **etl** y **load_datawarehouse** que automatizan el datawarehouse.
 
 
 
