@@ -55,18 +55,18 @@ Toda la documentación asociada a la Analytics y Sistema de Recomendación se en
 
 El producto final es Una **WEB** que presenta la siguiente información: 
 
-                                                            - Link a Dashboards en Power Bi. 
+- Link a Dashboards en Power Bi. 
                                                             
-                                                            - Link a Sistema de Recomendación en Web App. 
+- Link a Sistema de Recomendación en Web App. 
                                                             
-                                                            - Equipo de Trabajo. 
+- Equipo de Trabajo. 
                                                             
-                                                            - Presentación de la Empresa. 
+- Presentación de la Empresa. 
 
 
 Mediante el siguiente enlace se puede acceder al sitio Web: [Sitio web de Smart Models](https://masclientes.website/smart-models/)
 
-Además, el código del sistema de recomendación se puede encontrar en esta carpeta.  
+Además, el código del sistema de recomendación y el Dashboard en Power BI se puede encontrar en esta carpeta.  
 
 <h1 align="center" id="tecnologias-utilizadas">TECNOLOGÍAS UTILIZADAS</h1>
 
